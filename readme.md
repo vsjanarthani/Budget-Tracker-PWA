@@ -2,7 +2,7 @@
 ## Description
 This is an app to keep track of depoists and withdrawals. Its created using express.js and mongoDb. It also uses Progressive Web Applications such as Web Manifest, service worker and IndexedDB to add offline functionality.
 
-## Build With
+## Built Using
 JavaScript, ES6, Node.js (Express, Mongoose, compression), MongoDB and PWAs (Web Manifest, Service worker, IndexedDB)
 
 ## Table of Contents
