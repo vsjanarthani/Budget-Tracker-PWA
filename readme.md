@@ -1,6 +1,6 @@
 # Budget Tracker App  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is an app to keep track of depoists and withdrawals. Its created using express.js and mongoDb. It also uses Progressive Web Applications such as Web Manifest, service worker and IndexedDB to add offline functionality.
+This is an app to keep track of withdrawals and deposits. Its created using express.js and mongoDb. It also uses Progressive Web Applications such as Web Manifest, service worker and IndexedDB to add offline functionality.
 
 ## Built Using
 JavaScript, ES6, Node.js (Express, Mongoose, compression), MongoDB and PWAs (Web Manifest, Service worker, IndexedDB)
