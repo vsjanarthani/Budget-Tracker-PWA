@@ -13,7 +13,7 @@
     "url": "git+https://github.com/vsjanarthani/Budget-Tracker-PWA.git"
   },
   "author": "Janarthani",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vsjanarthani/Budget-Tracker-PWA/issues"
   },
