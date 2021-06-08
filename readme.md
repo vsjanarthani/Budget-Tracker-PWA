@@ -13,13 +13,14 @@ JavaScript, ES6, Node.js (Express, Mongoose, compression), MongoDB and PWAs (Web
 * [License](#License)
 * [Contributing](#Contributing)
 * [Screenshot](#Screenshot)
+* [Deployed](#Deployed)
 * [Questions](#Questions)
 
 ### Installation
-Inorder to install the necessary dependencies, run ```npm install``` in your terminal.
+To clone the repo run ```git clone https://github.com/vsjanarthani/Budget-Tracker-PWA.git```. Inorder to install the necessary dependencies, run ```npm install``` in your terminal.
 
 ### Usage
-After installing all the dependencies, set up your mongoDb URI/EndPoint as env variable and then run ```npm start``` in your terminal. 
+After installing all the dependencies, run ```npm start``` in your terminal to start the server. 
 ### User-Story
 AS AN avid traveler<br>
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection<br>
@@ -39,6 +40,9 @@ No contributions at the moment. If anyone wishes to provide contributions, pleas
 
 ### Screenshot
 ![webpage](./public/images/screenshot.png)
+
+### Deployed
+The application is deployed on Heroku [https://budget-tracker-jana.herokuapp.com/](https://budget-tracker-jana.herokuapp.com/)
 
 ### Questions
 If you have any questions, please reach out to the<br>
